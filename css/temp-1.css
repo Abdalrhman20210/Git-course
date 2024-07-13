@@ -3,6 +3,7 @@
     -moz-box-sizing: border-box;
     -o-box-sizing: border-box;
     box-sizing: border-box;
+    padding: 0;
 }
 
 body {
@@ -133,6 +134,7 @@ html {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
+    cursor: pointer;
 }
 
 .header-0 .links-0 .icon-0 span {
